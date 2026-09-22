@@ -150,6 +150,9 @@ This Code of Conduct may be reviewed and updated as the Bugema Linux community g
 
 Changes should follow the project's governance process.
 
+  ## 13. Honesty and intergrity
+  * Be truthful in your communication, work, and actions. Avoid cheating, lying, or giving false information.
+
 ---
 
 **Bugema Linux**
