@@ -301,10 +301,17 @@ Meaningful contributions may be recognized through:
 * Contributor acknowledgements
 * Student project records
 * Research and publication opportunities where appropriate
+  
 
 ## 18. Questions
 
 If you are unsure about how to contribute, open a GitHub issue or discussion describing the problem and the proposed work.
+
+## 19. Accessibility
+contributors should consider accessibility when creating documentation and softwre
+* use clear and simple language.
+* provide alternative text for images.
+* use descriptive headings.
 
 ---
 

@@ -149,6 +149,9 @@ This Code of Conduct applies to project participation through:
 This Code of Conduct may be reviewed and updated as the Bugema Linux community grows.
 
 Changes should follow the project's governance process.
+## 13. Mentorship
+*Experienced contributors should help beginners understand the project.
+
 
 ---
 
