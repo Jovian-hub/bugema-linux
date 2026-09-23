@@ -336,6 +336,13 @@ Useful answers and troubleshooting solutions should be documented so that knowle
 The support process will evolve as Bugema Linux grows.
 
 Feedback about documentation, support procedures, and user experience is welcome through the project's GitHub collaboration channels.
+## 17. Community Channels
+
+*Guidance on where new contributors can ask for help with pull requests.
+
+*Links to CONTRIBUTING.md for coding standards and workflow.
+
+*Mentorship opportunities if you want to encourage beginners.
 
 ---
 
