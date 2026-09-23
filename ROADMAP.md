@@ -674,6 +674,15 @@ Major changes should be documented through the project's governance process.
 
 **Next major technical decision:** Selection of the Linux base distribution and system architecture.
 
+## 22. Short-Term Goals (Next Release)
+* Bug fixes and stability improvements
+
+* Adding essential packages for education and development
+
+* Improving documentation and installation guides
+
+
+
 ---
 
 **Bugema Linux**
