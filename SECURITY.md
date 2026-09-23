@@ -274,6 +274,15 @@ This security policy will evolve as the Bugema Linux architecture, infrastructur
 
 Changes should be reviewed according to the project's governance process.
 
+## 21. Reporting Vulnerabilities
+
+Provide a clear process for reporting security issues
+
+* Clear description of the vulnerability.
+* Steps to reproduce the issue.
+* Potential impact if exploited.
+* Suggested mitigation or fix.
+
 ---
 
 **Bugema Linux**
