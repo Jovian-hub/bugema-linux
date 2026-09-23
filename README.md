@@ -194,6 +194,10 @@ These documents will be added as the project governance framework is established
 
 ## License
 See the [LICENSE](LICENSE) file for details.
+## One-Line Description
+* Summarizes the project in one sentence.
+## Table of contents
+* Provides navigation for long READMES.
 
 ## Maintained By
 
