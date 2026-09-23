@@ -433,6 +433,10 @@ Possible future areas include:
 * Research and innovation projects
 
 The project's technical architecture should therefore prioritize sustainability and maintainability from the beginning.
+## 23. Roles and responsibilities
+* This defines the organisation chart who exists what they can do, what is expected of them.
+## 24. Becoming a maintainer
+* This defines the promotion path, the criteria and process for gaining power.
 
 ---
 
@@ -440,5 +444,4 @@ The project's technical architecture should therefore prioritize sustainability 
 
 **Bugema Open Source Community (BOSC)**
 **Bugema University, Uganda**
-
-> **Learn. Build. Share. Innovate.**
+ **Learn. Build. Share. Innovate.**
