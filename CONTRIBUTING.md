@@ -306,6 +306,17 @@ Meaningful contributions may be recognized through:
 
 If you are unsure about how to contribute, open a GitHub issue or discussion describing the problem and the proposed work.
 
+## 19. Reporting bugs
+
+Unstructured bug repots are useless. This section forces contributors to give you:
+* Reproduction steps
+* Environment info
+* Expected vs actual behavior
+* 
+  ## 20. Community links
+  
+  * Points to where conversations happen. Reduces the number of "how do I want to contact you?" issues . Builds a sense of belonging.
+
 ---
 
 **Bugema Linux**
